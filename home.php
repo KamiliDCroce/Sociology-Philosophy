@@ -6,7 +6,7 @@ require("cabeçalho.php");
 ?>
 
 <center>
-    <img id="imghome" src="images/bckhome.png" width="63%">
+    <img id="imghome" src="images/imghome.jpg" width="65%">
 </center>
 
 <div id="container-home">

@@ -3,8 +3,8 @@
 
 #symbol {
     margin-top: 1.20%;
-    margin-left: 3%;
-    width: 14%;
+    margin-left: 2%;
+    width: 13%;
 }
 
 
@@ -46,8 +46,8 @@ a:hover:before {
 }
 
 #menu {
-    margin-left: 66%;
-    margin-top: -3%;
+    margin-left: 72%;
+    margin-top: -3.8%;
 }
 
 p {
@@ -106,9 +106,9 @@ p {
   
 #imghome {
     background-repeat: no-repeat;
-    margin-top: -1%;
+    margin-top: 0%;
     position: fixed;
-    margin-left: -32%;
+    margin-left: -34%;
 }
 
 .block {
@@ -127,8 +127,10 @@ p {
    margin-left: 27%;
    font-weight: bold;
    font-size: 35px;
-   margin-top: 30%;
+   margin-top: 37%;
+   text-shadow: 0px 0px 15px #72ade4; 
 }
+
 
 
   
